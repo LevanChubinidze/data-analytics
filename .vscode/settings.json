@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "gaming",
+            "database": "C:\\Users\\Levan\\projects\\data-analyst-growth\\week-1-SQL\\gaming.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
