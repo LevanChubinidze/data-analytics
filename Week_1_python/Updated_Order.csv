@@ -1,21 +1,21 @@
-OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,Shipped,Country
-1001,John Smith,Laptop,Electronics,1,1200,2024-01-05,Yes,UNITED STATES
+Order ID,CustomerName,Product,Category,Quantity,Price,OrderDate,Shipped,Country
+1001,John Smith,Laptop,Electronics,1,1200,2024-01-05,Yes,USA
 1002,Emma Brown,Headphones,Electronics,2,150,2024-01-06,Yes,UK
-1003,Michael Lee,Desk,Furniture,1,300,2024-01-07,No,GERMANY
-1004,Sophia Davis,Chair,Furniture,4,120,2024-01-08,Yes,FRANCE
-1005,Daniel Wilson,Mouse,Electronics,3,25,2024-01-09,Yes,SPAIN
-1006,Olivia Taylor,Keyboard,Electronics,2,70,2024-01-10,No,ITALY
-1007,James Anderson,Monitor,Electronics,1,400,2024-01-11,Yes,UNITED STATES
+1003,Michael Lee,Desk,Furniture,1,300,2024-01-07,No,Germany
+1004,Sophia Davis,Chair,Furniture,4,120,2024-01-08,Yes,France
+1005,Daniel Wilson,Mouse,Electronics,3,25,2024-01-09,Yes,Spain
+1006,Olivia Taylor,Keyboard,Electronics,2,70,2024-01-10,No,Italy
+1007,James Anderson,Monitor,Electronics,1,400,2024-01-11,Yes,USA
 1008,Isabella Thomas,Tablet,Electronics,2,350,2024-01-12,Yes,UK
-1009,William Jackson,Sofa,Furniture,1,800,2024-01-13,No,GERMANY
-1010,Ava White,Bookshelf,Furniture,1,200,2024-01-14,Yes,FRANCE
-1011,Liam Harris,Phone,Electronics,1,900,2024-01-15,Yes,SPAIN
-1012,Mia Martin,TV,Electronics,1,1100,2024-01-16,No,ITALY
-1013,Noah Thompson,Camera,Electronics,1,600,2024-01-17,Yes,UNITED STATES
+1009,William Jackson,Sofa,Furniture,1,800,2024-01-13,No,Germany
+1010,Ava White,Bookshelf,Furniture,1,200,2024-01-14,Yes,France
+1011,Liam Harris,Phone,Electronics,1,900,2024-01-15,Yes,Spain
+1012,Mia Martin,TV,Electronics,1,1100,2024-01-16,No,Italy
+1013,Noah Thompson,Camera,Electronics,1,600,2024-01-17,Yes,USA
 1014,Charlotte Garcia,Printer,Electronics,2,250,2024-01-18,Yes,UK
-1015,Ethan Martinez,Table,Furniture,1,350,2024-01-19,No,GERMANY
-1016,Amelia Robinson,Lamp,Furniture,3,45,2024-01-20,Yes,FRANCE
-1017,Lucas Clark,Router,Electronics,2,90,2024-01-21,Yes,SPAIN
-1018,Harper Rodriguez,Scanner,Electronics,1,220,2024-01-22,No,ITALY
-1019,Mason Lewis,Smartphone,Furniture,5,100,2024-01-23,Yes,UNITED STATES
+1015,Ethan Martinez,Table,Furniture,1,350,2024-01-19,No,Germany
+1016,Amelia Robinson,Lamp,Furniture,3,45,2024-01-20,Yes,France
+1017,Lucas Clark,Router,Electronics,2,90,2024-01-21,Yes,Spain
+1018,Harper Rodriguez,Scanner,Electronics,1,220,2024-01-22,No,Italy
+1019,Mason Lewis,Chair,Furniture,5,100,2024-01-23,Yes,USA
 1020,Evelyn Lee,Desk,Furniture,1,320,2024-01-24,Yes,UK
